@@ -1,1 +1,1 @@
-print("¿q tal?")
+print("¿y tu?")
